@@ -1,0 +1,83 @@
+body{
+	margin-left: 110px;
+	font-family: arial;
+}
+
+
+.arteCultura h1{
+
+	background-color: #ff7212;
+	color: #FFFFFF;
+	font-size: 32px;
+	padding: 18px;
+	font-family: arial;
+
+}
+
+.tituloArtigo h1{
+	font-size: 50px;
+	margin-left: 20px;
+}
+.tituloArtigo h2{
+	font-size: 13px;
+	color: #000000;
+	margin-left: 20px;
+	line-height: 5px;
+}
+
+
+.conteudo p{
+	margin-left: 20px;
+	margin-top: 30px;
+	line-height: 25px;
+	margin-right: 300px;
+	color: #484848;
+}
+
+.conteudo img{
+	width: 600px;
+	margin-left: 20px;
+}
+
+figcaption{
+	margin-left: 20px;
+	width: 600px;
+	font-size: 12px;
+}
+
+
+
+.fatos h3{
+	font-size: 16px;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+
+
+
+iframe{
+	width: 800px;
+	height: 400px;
+	margin-left: 20px;
+}
+
+
+
+.saiba h4{
+	margin-left: 20px;
+	margin-top: 50px;
+}
+
+
+
+ul{
+	line-height: 30px;
+	font-size: 18px;
+	color: #484848;
+	list-style: none;
+	margin-left: -20px;
+	margin-bottom: 50px;
+}
+a{
+	color: #484848;
+}
